@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 """
-This module has a Rectangle object subclass 
+This module has a Rectangle object subclass
 that inherits from the superclass BaseGeometry
 """
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
+
 class Rectangle(BaseGeometry):
+    """Class that inherits from BaseGeometry"""
     def __init__(self, width, height):
         """initialisation
         Args:

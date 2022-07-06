@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 """
-This module implements a Rectangle object subclass which 
+This module implements a Rectangle object subclass which
 inherits from the Basegeometry class
 """
 BaseGeometry = __import__("7-base_geometry").BaseGeometry
+
 
 class Rectangle(BaseGeometry):
     """Rectangle implementation

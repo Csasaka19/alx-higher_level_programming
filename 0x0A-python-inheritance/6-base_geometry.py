@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 """
-This module has an class BaseGeometry that has one 
+This module has an class BaseGeometry that has one
 function
 """
+
+
 class BaseGeometry:
     """Has one funtion that raises an exception
     """
