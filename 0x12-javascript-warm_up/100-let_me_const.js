@@ -1,2 +1,2 @@
 #!/usr/bin/node
-MyVar = 333;
+const MyVar = 333;
