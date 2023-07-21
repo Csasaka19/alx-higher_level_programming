@@ -1,0 +1,3 @@
+#!/bin/bash
+# run a python script and save the output $PYFILE
+python3 $PYFILE
